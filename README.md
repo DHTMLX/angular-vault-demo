@@ -4,8 +4,6 @@
 
 <img src="https://raw.githubusercontent.com/DHTMLX/angular-vault-demo/master/vault.png" width="550">
 
-
-
 ## How to start
 
 Clone the repository or download files.
@@ -28,6 +26,7 @@ You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/devel
 
 - **[Online demo](https://replit.com/@dhtmlx/dhtmlx-vault-with-angular)**
 - [More demos about the DHTMLX Vault functionality](https://snippet.dhtmlx.com/26x2jra2?tag=vault)
+- [A step-by-step guide about Vault and Angular integration](https://docs.dhtmlx.com/vault/angular_integration.html) 
 - [Technical support ](https://forum.dhtmlx.com/c/vault)
 - [Documentation](https://docs.dhtmlx.com/vault)
 
