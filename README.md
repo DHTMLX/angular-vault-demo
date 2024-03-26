@@ -2,7 +2,8 @@
 
 [![dhtmlx.com](https://img.shields.io/badge/made%20by-DHTMLX-blue)](https://dhtmlx.com/)
 
-![DHTMLX Vault with Angular Demo](https://raw.githubusercontent.com/DHTMLX/angular-vault-demo/master/vault.png)
+<img src="https://raw.githubusercontent.com/DHTMLX/angular-vault-demo/master/vault.png" width="550">
+
 
 
 ## How to start
@@ -10,8 +11,15 @@
 Clone the repository or download files.
 
 ```
-yarn 
+yarn
 yarn start
+```
+
+or
+
+```
+npm install
+npm run start
 ```
 
 You can also use [GitHub Codespaces](https://docs.github.com/en/codespaces/developing-in-a-codespace/creating-a-codespace-for-a-repository) to run online.
